@@ -1,0 +1,248 @@
+Article:
+    Name: [Google Gemini: Everything you need to know about the new generative AI platform]
+    Link: [https://techcrunch.com/2024/01/07/what-is-google-gemini-ai/]
+    Date: [Jan 7, 2024]
+    Summary:
+    - Google Gemini is a new generative AI platform that is trained on a variety of audio, images, and videos.
+    and a large set of codebases and test in different languages, setting Gemini apart from large language models 
+    that are only trained on data. 
+    Gemini should be a platform to monitor to see if it's a promising tool
+
+Article:
+    Name: [NVIDIA Brings Generative AI to Millions, With Tensor Core GPUs, LLMs, Tools for RTX PCs and Workstations]
+    Link: [https://nvidianews.nvidia.com/news/generative-ai-rtx-pcs-and-workstations]
+    Date: [Jan 8, 2024]
+    Summary:
+    - NVIDIA announced launch of GeForce RTX SUPER desktop GPUs for supercharged generative AI performance
+    - New AI laptops from top manufacturers
+    - New NVIDIA RTX-accelerated AI software and tools for both developers and consumers
+
+Article:
+    Name: [How 2024 Will Be A.I.’s ‘Leap Forward’]
+    Link: [https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html]
+    Date: [Jan 8, 2024]
+    Summary:
+    - Generating videos could have several use cases
+    - Help create videos for training purposes or marketing purposes for cheap
+    - Speed up the process of doing certain tasks that require creating videos
+
+Article:
+    Name: [OpenAI responds to New York Times lawsuit]
+    Link: [https://www.cnbc.com/2024/01/08/openai-responds-to-new-york-times-lawsuit.html]
+    Date: [Jan 8, 2024]
+    Summary:
+    - The data we use to train generative AI should be retrieved legally and used to train a model correctly
+    - Risk of getting sued if not done properly
+
+Article:
+    Name: [McAfee unveils AI-powered deepfake audio detection]
+    Link: [https://www.artificialintelligence-news.com/2024/01/08/mcafee-unveils-ai-powered-deepfake-audio-detection/]
+    Date: [Article Date]
+    Summary:
+    - McAfee announces Project Mockingbird, a new AI-powered deepfake audio detection technology
+    - Aims to defend consumers against various cyber crimes
+    - Could help protect people and companies from future phishing attacks
+
+Article:
+    Name: [Walmart's app will use AI to suggest purchases based on customer needs]
+    Link: [https://www.axios.com/2024/01/10/walmart-app-ai-ces]
+    Date: [Jan 10, 2024]
+    Summary:
+    - Walmart will now show everything someone will need for a specific event or occasion
+    - Could recommend different types of alcohol for the events going on in addition to what was searched
+
+Article:
+    Name: [SAP Announces New AI-Driven Retail Capabilities]
+    Link: [https://news.sap.com/2024/01/new-ai-driven-retail-capabilities-enhance-customer-experience/]
+    Date: [Jan 11, 2024]
+    Summary:
+    - SAP announced new AI-driven capabilties for retailers
+    - Predictive demand planning, predictive replenishment, order management, and digital ad integrations
+    - Can help optimize business processes and drive profitability and customer loyalty
+
+Article:
+    Name: [Walmart reveals new AI tech at CES: How company plans to level up]
+    Link: [https://www.usatoday.com/story/tech/news/2024/01/09/walmart-ces-ai-tech/72161108007/]
+    Date: [Jan 9, 2024]
+    Summary:
+    - Walmart is using AI drones in certain states to deliver products
+    - Could be used for rush orders or as an alternative to delivery drivers
+
+Article:
+    Name: [AI can tell if prints from two different fingers belong to same person]
+    Link: [https://www.newscientist.com/article/2412199-ai-can-tell-if-prints-from-two-different-fingers-belong-to-same-person/]
+    Date: [Jan 12, 2024]
+    Summary:
+    - A ML model is able to predict if different fingerprints came from the same person
+    - Could be used in cases where security is extremely important
+
+Article:
+    Name: [Microsoft Launches New Generative AI Ad Creation Tool]
+    Link: [https://www.socialmediatoday.com/news/microsoft-launches-new-generative-ai-ad-creation-tool/704388/]
+    Date: [Jan 11, 2024]
+    Summary:
+    - Microsoft announced a new Cretive Studio element update on its Retail Media tool
+    - Enables users to create totally new ads, in new formats, via conversational AI prompts
+    - Allows for the creation of AI-generated ads that automatically align with different retailer's style guides
+
+Article:
+    Name: [OpenAI announces team to build 'crowdsourced' governance ideas into its models]
+    Link: [https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/]
+    Date: [Jan 16, 2024]
+    Summary:
+    - OpenAi plans to implement ideas from the public about how to ensure its future AI models "align to the values of humanity"
+    - Crowdsourcing will influence the course of AI in the future
+
+Article:
+    Name: [AOpenAI launches GPT Store for custom AI assistants]
+    Link: [https://www.artificialintelligence-news.com/2024/01/11/openai-launches-gpt-store-custom-ai-assistants/]
+    Date: [Jan 16, 2024]
+    Summary:
+    - The GPT Store is rapidly growing with 3 million assistants
+    - Assistants cover a wide range of topics such as art, research, programming, education, and lifestyle
+    - Company-specific assistants will not be used to improve OpenAI models
+
+Article:
+    Name: [Samsung's latest Galaxy phones offer live translation over phone calls, texts]
+    Link: [https://techcrunch.com/2024/01/17/samsungs-latest-galaxy-phones-offer-live-translation-over-phone-calls-texts/]
+    Date: [Jan 17, 2024]
+    Summary:
+    - Samsung launched its new AI-powered Galax S24 line of smartphones with a new Live Translation feature
+    - Allows customers to make or receive a call in a language they don't speak and receive a live translation
+    - Beneficial for communication purposes and substitutes the need for a translator
+
+Article:
+    Name: [The AI-Powered Rabbit R1 Wants to Kill Your iPhone For Good]
+    Link: [https://www.thedailybeast.com/the-ai-powered-rabbit-r1-wants-to-kill-your-iphone-for-good]
+    Date: [Jan 18, 2024]
+    Summary:
+    - Has the ability to shake the smartphone industry
+    - Could lead to changes in other industries
+    - Consider taking action to provide customers with another way of ordering
+
+Article:
+    Name: [Rabbit sells more than 10,000 units of its extremely interesting pocket AI companion.]
+    Link: [https://www.tweaktown.com/news/95657/rabbit-sells-more-than-10-000-units-of-its-extremely-interesting-pocket-ai-companion/index.html]
+    Date: [Jan 17, 2024]
+    Summary:
+    - Startup company Rabbit sold over 10,000 units of its new AI-powered pocket assistant, the R1 on its first day of pre-orders
+    - Uses a "Large Action Model" as a universal controller for apps
+    - Likely to become huge and could be beneficial to SGWS operating functions
+
+Article:
+    Name: [Microsoft acquires high-performance computing company Bright Computing]
+    Link: [https://www.zdnet.com/article/microsoft-acquires-high-performance-computing-company-bright-computing/]
+    Date: [Jan 14, 2024]
+    Summary:
+    - Microsoft has acquired Bright Computing, a company that specializes in high-performance computing
+    - Could advance Microsoft's capabilities in AI, machine learning, and data analytics
+    - Indirectly benefit SGWS
+
+Article: 
+    Name: [Amazon opens state-of-the-art AI research lab in Silicon Valley]
+    Link: [https://www.geekwire.com/2024/01/20/amazon-opens-state-art-ai-research-lab-silicon-valley/]
+    Date: [Jan 20, 2024]
+    Summary:
+    - Amazon has opened a new AI research lab focusing on numerous AI technologies
+    - Includes robotics, machine learning, computer vision, and environmental science applications
+
+Article:
+    Name: [Google makes new AI development more accessible, launches Vertex AI]
+    Link: [https://techcrunch.com/2024/01/22/google-makes-new-ai-development-more-accessible-launches-vertex-ai/]
+    Date: [Jan 22, 2024]
+    Summary:
+    - Google's Vertex AI, a new managed machine learning (ML) platform
+    - Aimed at making the development of AI more accessible to developers and data
+
+Article:
+    Name: [News in AI: Google's AutoML Tables and Microsoft's Dynamics 365 AI updates]
+    Link: [https://data-flair.training/blogs/news-in-ai-google-automl-tables-and-microsoft-dynamics-365-ai/]
+    Date: [Jan 22, 2024]
+    Summary:
+    - Google's new announcement of AutoML Tables and Microsoft's Dynamics 365 AI updates
+    - Focused on using AI to help businesses optimize
+
+Article:
+    Name: [Companies mix AI and cloud computing for business gains]
+    Link: [https://www.techrepublic.com/article/companies-mix-ai-and-cloud-computing-for-business-gains/]
+    Date: [Jan 22, 2024]
+    Summary:
+    - Discusses how businesses are combining AI and cloud computing to drive digital transformation and business growth
+    - Helps SGWS executives learn how companies are leveraging AI and cloud technologies for boosting their businesses
+
+Article: 
+    Name: [AI Business Announces AIGO - The Next Generation of Virtual Assistants]
+    Link: [https://aibusiness.com/aigo-announces-the-next-generation-of-intelligent-assistants/]
+    Date: [Jan 23, 2024]
+    Summary:
+    - AI Business announces AIGO, a new AI-Driven Virtual Assistant
+    - AIGO promises to be capable of deep learning, comprehension, and remembers the context of the conversation
+
+Article: 
+    Name: [Apple acquires edge-based AI startup Silk Labs]
+    Link: [https://venturebeat.com/2024/01/23/apple-acquires-silk-labs/]
+    Date: [Jan 23, 2024]
+    Summary:
+    - Apple acquires Silk Labs, an AI startup specialized in edge computing, which brings cloud-storage-based tasks to on-device and local processing
+    - Acquisition of Silk Labs shows Apple's commitment to increasing its edge computing
+Article:
+    Name: [How Facebook's AI learned to predict your next move]
+    Link: [https://www.wired.com/story/facebook-ai-predict-next-move/]
+    Date: [Jan 22, 2024]
+    Summary:
+    - Facebook uses deep learning to predict user's next move on its platform
+    - The prediction models help it curate content to keep users engaged
+    - It could raise privacy concerns
+Article:
+    Name: [Facebook's A.I. Research Labs eyes intelligent virtual assistants]
+    Link: [https://techcrunch.com/2024/01/22/facebook-ai-research-labs-intelligent-virtual-assistants/]
+    Date: [Jan 22, 2024]
+    Summary:
+    - Facebook's new AI research has the potential to significantly impact how businesses leverage intelligent virtual assistants
+    - The technology aims to improve the capabilities of voice, text,
+
+Article:
+    Name: [NVIDIA AI Enterprise Software Suite Now Certified for VMware vSphere]
+    Link: [https://nvidianews.nvidia.com/news/nvidia-ai-enterprise-software-suite-now-certified-for-vmware-vsphere]
+    Date: [Jan 26, 2024]
+    Summary:
+    - NVIDIA announced the certification of its AI Enterprise software suite on VMware vSphere.
+    - It provides an end-to-end, cloud-native suite of AI and data
+
+Article:
+    Name: [Faster and More Efficient NLP Model — ELMo vs. BERT]
+    Link: [https://towardsdatascience.com/faster-and-more-efficient-nlp-model-elmo-vs-bert-1ff10ba14639]
+    Date: [2024]
+    Summary:
+    - This article compares two popular NLP models, ELMo and BERT, discussing their efficiency and speed.
+    - The author highlights BERT's advantage in understanding
+
+Article:
+    Name: [Amazon's new AI service allows machines to learn like humans]
+    Link: [https://www.theverge.com/2024/01/24/22531852/amazon-machine-learning-ai-service-learning-from-human-experience]
+    Date: [Jan 24, 2024]
+    Summary:
+    - Amazon's new machine learning service Learning from Human Experience (LFHE) allows AI to learn from experience like humans do
+
+Article:
+    Name: [Google Launches AI Hub for End-to-End Machine Learning Development]
+    Link: [https://techcrunch.com/2024/01/27/google-AI-Hub-for-machine-learning]
+    Date: [Jan 27, 2024]
+    Summary:
+    - Google's new AI Hub provides a central collaborative environment for machine learning developers
+    - Comprises public and private spaces where machine learning developers can experiment and deploy models
+
+Article:
+    Name: [Release of AI Development Platform with Federated Learning by Google]
+    Link: [https://www.infoworld.com/article/5639170/google-launches-ai-platform-with-federated-learning.html]
+    Date: [Jan 13, 2024]
+    Summary:
+    - Google has released an AI development platform which features federated learning (the concept of training an AI model across devices while keeping the data local)
+    - It aims to provide a solution
+
+Article:
+    Name: [IBM’s Project CodeNet Aims to Teach AI to Code]
+    Link: [https://techcrunch.com/2024/01/28/ibm-project-codenet-ai-to-code/]
+    Date: [Jan 28, 2024]
+    Summary:
+    - IBM Project CodeNet is a new open-source dataset that aims to train AI to understand and translate code. With the lines between software development and AI continuing to blur, initiatives
